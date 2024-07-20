@@ -32,6 +32,8 @@ app_include_js = "devextreme-report.bundle.js"
 # doctype_tree_js = {"doctype" : "public/js/doctype_tree.js"}
 # doctype_calendar_js = {"doctype" : "public/js/doctype_calendar.js"}
 
+boot_session = "devextreme.startup.boot.boot_session"
+
 # Home Pages
 # ----------
 
